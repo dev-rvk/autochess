@@ -1,10 +1,15 @@
-# AUTOCHESS
+<h1 align="center">AUTOCHESS<br>
+  <a>
+    <img src="https://hackaday.com/wp-content/uploads/2022/03/chess.png?w=800" width="400" height="166">
+  </a></h1>
+
 "Autochess" is a captivating concept that combines the timeless game of chess with modern technology to create a more dynamic and immersive gaming experience. This  idea introduces automation and interactivity to the traditional chessboard, enhancing gameplay, learning opportunities, and entertainment value. 
 
+<details>
+<summary>Table of Contents</summary>
+
 - [Description](#description)
-
 - [Links](#links)
-
 - [Tech Stack](#tech-stack)
 
 - [Future Scope](#future-scope)
@@ -13,6 +18,8 @@
 
 - [Team Members](#team-members)
 
+
+</details>
 
 
 
