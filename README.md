@@ -1,7 +1,5 @@
 <h1 align="center">AUTOCHESS<br>
-  <a>
-    <img src="https://hackaday.com/wp-content/uploads/2022/03/chess.png?w=800" width="400" height="166">
-  </a></h1>
+  </h1>
 
 "Autochess" is a captivating concept that combines the timeless game of chess with modern technology to create a more dynamic and immersive gaming experience. This  idea introduces automation and interactivity to the traditional chessboard, enhancing gameplay, learning opportunities, and entertainment value. 
 
@@ -92,10 +90,10 @@ In the future, we are also planning to integrate features with which you can pla
 1. Clone the project
 
 ```bash
-git clone (https://github.com/raghavkorde/autochess/tree/main/Automatic_Chessboard_V3.git
+git clone (https://github.com/raghavkorde/autochess.git
 ```
 
-2.Navigate to the cloned repo and open .ino file in Arduino IDE
+2.Navigate to the cloned repo and open Automatic_Chessboard_V3.ino file in Arduino IDE
 
 
 
@@ -106,9 +104,9 @@ git clone (https://github.com/raghavkorde/autochess/tree/main/Automatic_Chessboa
 
 - [Raghav Korde](https://github.com/raghavkorde): raghavkorde4@gmail.com
 - [Nirmalkumar Nikam](https://github.com/nirmalkumarnikam): nirmalkumarnikam.official@gmail.com
-- [Mohd Owais Sheikh](https://github.com/owaiz13): mohowaissheikh@gmail.com
+- [Mohd Owais Sheikh](https://github.com/Owaiz13): mohowaissheikh@gmail.com
 - [Arya Tayshete](https://github.com/xoaryaa): arya.tayshete72@gmail.com
-- [Aditya Chakraborty](https:/github.com/adityachk2002): adityachk2002@gmail.com
+- [Aditya Chakraborty](https:/github.com/Adityachk2002): adityachk2002@gmail.com
 - [Namrata Gandhe](https://github.com/namratagandhe): namratagandhe22@gmail.com
 
 
