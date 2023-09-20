@@ -90,7 +90,7 @@ In the future, we are also planning to integrate features with which you can pla
 1. Clone the project
 
 ```bash
-git clone (https://github.com/raghavkorde/autochess.git
+git clone https://github.com/raghavkorde/autochess.git
 ```
 
 2.Navigate to the cloned repo and open Automatic_Chessboard_V3.ino file in Arduino IDE
