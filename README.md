@@ -106,7 +106,7 @@ git clone https://github.com/raghavkorde/autochess.git
 - [Nirmalkumar Nikam](https://github.com/nirmalkumarnikam): nirmalkumarnikam.official@gmail.com
 - [Mohd Owais Sheikh](https://github.com/Owaiz13): mohowaissheikh@gmail.com
 - [Arya Tayshete](https://github.com/xoaryaa): arya.tayshete72@gmail.com
-- [Aditya Chakraborty](https:/github.com/Adityachk2002): adityachk2002@gmail.com
+- [Aditya Chakraborty](https:/github.com/adityachk2002): adityachk2002@gmail.com
 - [Namrata Gandhe](https://github.com/namratagandhe): namratagandhe22@gmail.com
 
 
