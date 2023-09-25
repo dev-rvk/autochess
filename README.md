@@ -6,15 +6,15 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Description](#description)
-- [Links](#links)
-- [Tech Stack](#tech-stack)
-
-- [Future Scope](#future-scope)
-
-- [Project Setup](#project-setup)
-
-- [Team Members](#team-members)
+- [📝Description](#description)
+- [🤖Technologies and approach](#technologies-and-approach)
+- [🔗Links](#links)
+- [🤖Tech-Stack](#tech-stack)
+    - [Languages](#languages)
+    - [Software](#software)
+- [🔮Future Scope](#future-scope)
+- [🛠Project Setup](#project-setup)
+- [👨‍💻Team Members](#team-members)
 
 
 </details>
@@ -33,7 +33,7 @@ We are using the following technologies which include a variety of disciplines s
 - A single board computer to detect the moves played by you and also play the next move. It will control all movements of hardware motors. Electronics also include magnetic switches which will act as a sensor to detect where the moves have been made by user. 
 - An interactive web app so that you can play from miles away. We have 3D printed various parts that attach the aluminium rails. 
 - A multiplexer to sense which of the 64 spaces on the board is active. Each piece is fitted with a magnet of its own which attaches to the electromagnet and slides over the board. Move validation will happen here.
-- The code is written in c++ and Arduino C. The webapp is made using React and we have used api calls to integrate it with the microcontroller.
+- The code is written in C++ and Arduino C. The webapp is made using React and we have used api calls to integrate it with the microcontroller.
 
 
 
@@ -43,11 +43,9 @@ We are using the following technologies which include a variety of disciplines s
 
 ## 🔗Links
 
-- [GitHub Repository](https://github.com/raghavkorde/autochess/tree/main/Automatic_Chessboard_V3)
+[GitHub Repository](https://github.com/raghavkorde/autochess/tree/main/Automatic_Chessboard_V3)
 
-
-
-
+[Video Demonstration (WIP)](https://drive.google.com/file/d/1n4CHXYQZQM9E5KBrQ1_CQI-dBuEgY22M/view)
 
 
 ## 🤖Tech-Stack
@@ -63,16 +61,6 @@ We are using the following technologies which include a variety of disciplines s
 - Arduino IDE
 
 
-
-
-
-
-
-
-
-
-
-
 ## 🔮Future Scope
 
 
@@ -83,31 +71,24 @@ In the future, we are also planning to integrate features with which you can pla
 
 ## 🛠Project Setup
 
-
-`Write the following commands on the terminal.`
-
-
 1. Clone the project
 
 ```bash
 git clone https://github.com/raghavkorde/autochess.git
 ```
 
-2.Navigate to the cloned repo and open Automatic_Chessboard_V3.ino file in Arduino IDE
-
-
-
+2. Navigate to the cloned repo and open Automatic_Chessboard_V3.ino file in Arduino IDE
 
 
 ## 👨‍💻Team Members
 
 
-- [Raghav Korde](https://github.com/raghavkorde): raghavkorde4@gmail.com
-- [Nirmalkumar Nikam](https://github.com/nirmalkumarnikam): nirmalkumarnikam.official@gmail.com
-- [Mohd Owais Sheikh](https://github.com/Owaiz13): mohowaissheikh@gmail.com
-- [Arya Tayshete](https://github.com/xoaryaa): arya.tayshete72@gmail.com
-- [Aditya Chakraborty](https://github.com/adityachk2002): adityachk2002@gmail.com
-- [Namrata Gandhe](https://github.com/namratagandhe): namratagandhe22@gmail.com
+[Raghav Korde](https://github.com/raghavkorde): raghavkorde4@gmail.com
+[Nirmalkumar Nikam](https://github.com/nirmalkumarnikam): nirmalkumarnikam.official@gmail.com
+[Mohd Owais Sheikh](https://github.com/Owaiz13): mohowaissheikh@gmail.com
+[Arya Tayshete](https://github.com/xoaryaa): arya.tayshete72@gmail.com
+[Aditya Chakraborty](https://github.com/adityachk2002): adityachk2002@gmail.com
+[Namrata Gandhe](https://github.com/namratagandhe): namratagandhe22@gmail.com
 
 
 
