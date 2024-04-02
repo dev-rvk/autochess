@@ -83,7 +83,7 @@ git clone https://github.com/raghavkorde/autochess.git
 ## 👨‍💻Team Members
 
 
-[Raghav Korde](https://github.com/raghavkorde): raghavkorde4@gmail.com
+[Raghav Korde](https://github.com/dev-rvk): raghavkorde4@gmail.com
 
 [Nirmalkumar Nikam](https://github.com/nirmalkumarnikam): nirmalkumarnikam.official@gmail.com
 
